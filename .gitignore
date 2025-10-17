@@ -1,0 +1,19 @@
+# Ignorar carpetas de IDEs
+.idea/
+.metadata/
+.vscode/
+
+# Ignorar binarios y compilados
+out/
+build/
+target/
+*.class
+*.jar
+
+# Ignorar logs
+*.log
+
+# Ignorar otros archivos temporales
+*.tmp
+*.swp
+*.bak
